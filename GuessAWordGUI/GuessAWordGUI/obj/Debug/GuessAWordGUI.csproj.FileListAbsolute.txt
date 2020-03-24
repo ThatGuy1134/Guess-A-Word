@@ -1,0 +1,9 @@
+C:\Users\Jesse\OneDrive\School\Visual C#\Chapter 6\Practice\GuessAWordGUI\GuessAWordGUI\bin\Debug\GuessAWordGUI.exe.config
+C:\Users\Jesse\OneDrive\School\Visual C#\Chapter 6\Practice\GuessAWordGUI\GuessAWordGUI\bin\Debug\GuessAWordGUI.exe
+C:\Users\Jesse\OneDrive\School\Visual C#\Chapter 6\Practice\GuessAWordGUI\GuessAWordGUI\bin\Debug\GuessAWordGUI.pdb
+C:\Users\Jesse\OneDrive\School\Visual C#\Chapter 6\Practice\GuessAWordGUI\GuessAWordGUI\obj\Debug\GuessAWordGUI.csprojAssemblyReference.cache
+C:\Users\Jesse\OneDrive\School\Visual C#\Chapter 6\Practice\GuessAWordGUI\GuessAWordGUI\obj\Debug\GuessAWordGUI.MainFrm.resources
+C:\Users\Jesse\OneDrive\School\Visual C#\Chapter 6\Practice\GuessAWordGUI\GuessAWordGUI\obj\Debug\GuessAWordGUI.Properties.Resources.resources
+C:\Users\Jesse\OneDrive\School\Visual C#\Chapter 6\Practice\GuessAWordGUI\GuessAWordGUI\obj\Debug\GuessAWordGUI.csproj.GenerateResource.cache
+C:\Users\Jesse\OneDrive\School\Visual C#\Chapter 6\Practice\GuessAWordGUI\GuessAWordGUI\obj\Debug\GuessAWordGUI.exe
+C:\Users\Jesse\OneDrive\School\Visual C#\Chapter 6\Practice\GuessAWordGUI\GuessAWordGUI\obj\Debug\GuessAWordGUI.pdb
